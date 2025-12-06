@@ -20,6 +20,7 @@ This study explores how college students engage with the stock market, focusing 
 Overall, the extract shows rising interest in investments among youth, but also highlights a need for structured financial education.
 <img width="836" height="732" alt="image" src="https://github.com/user-attachments/assets/6baf6838-8c39-4682-a547-646f5f8eca5a" />
 <img width="875" height="684" alt="image" src="https://github.com/user-attachments/assets/3c7c7318-4150-4018-8f41-7fd3d4aceaf5" />
+<img width="837" height="815" alt="image" src="https://github.com/user-attachments/assets/10e7bc4e-573f-49c4-abba-1e2b35797893" />
 
 
 📘 Learnings from the Project
@@ -47,15 +48,7 @@ Fear of loss & lack of guidance stop many from investing confidently.
 
 Students clearly want stock market-related subjects in college.
 
-🏁 Conclusion
 
-The study concludes that college students show strong interest and growing involvement in the stock market, driven by curiosity, desire for extra income, and long-term wealth creation.
-
-However, despite high awareness, their practical knowledge remains limited, showing a need for proper guidance, financial education, and training programs. Students mostly invest small amounts and choose safer options, indicating cautious behavior.
-
-With 86% supporting stock market education, it becomes essential for colleges to integrate financial literacy programs, helping students become responsible and confident investors.
-
-Ultimately, early investment exposure can build stable financial habits, reduce dependence, and contribute to economic growth.
 
 ⭐ Main Importance of the Study
 🔥 1. Builds Financial Awareness in Youth
@@ -77,3 +70,13 @@ Useful for educational institutions to include practical financial literacy in s
 🏦 5. Contributes to National Financial Inclusion
 
 More educated investors → better market participation → stronger economy.
+
+🏁Conclusion
+
+The study concludes that college students show strong interest and growing involvement in the stock market, driven by curiosity, desire for extra income, and long-term wealth creation.
+
+However, despite high awareness, their practical knowledge remains limited, showing a need for proper guidance, financial education, and training programs. Students mostly invest small amounts and choose safer options, indicating cautious behavior.
+
+With 86% supporting stock market education, it becomes essential for colleges to integrate financial literacy programs, helping students become responsible and confident investors.
+
+Ultimately, early investment exposure can build stable financial habits, reduce dependence, and contribute to economic growth.
